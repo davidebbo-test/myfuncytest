@@ -1,0 +1,14 @@
+{
+  "name": "MyFuncyApp",
+  "versionControl": {
+    "type": "git",
+    "location": "https://github.com/davidebbo-test/myfuncytest",
+    "branch": "master"
+  },
+  "cors": {
+    "allowedOrigins": [
+      "https://functions.azure.com/"
+    ]
+  },
+  "containerSize": 128
+}
